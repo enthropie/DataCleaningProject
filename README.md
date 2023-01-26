@@ -16,5 +16,9 @@
 
 Файл Jupiter notebook с решениями: [тут](https://github.com/enthropie/DataScienceProjects/blob/master/Project-1.%20HH.%20Sokolova%20Elena.ipynb "ipynb файл")
 
+----------------------------
 
+Финальный проект по теме "Подгрузка новых данных. Уточнение анализа" - PPROJECT-2. Анализ вакансий из HeadHunter
 
+Файл Jupiter notebook с решениями:                                             
+                      
