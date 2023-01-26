@@ -20,5 +20,5 @@
 
 Финальный проект по теме "Подгрузка новых данных. Уточнение анализа" - PPROJECT-2. Анализ вакансий из HeadHunter
 
-Файл Jupiter notebook с решениями:                                             
+Файл Jupiter notebook с решениями: [тут](https://github.com/enthropie/DataScienceProjects/blob/588348d1c8381d27e798385a2f270d1a830c374e/Project_2_%20Sokolova%20Elena_final.ipynb)                                            
                       
